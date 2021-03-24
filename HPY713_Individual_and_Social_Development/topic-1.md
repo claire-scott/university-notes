@@ -29,5 +29,37 @@ If the crisis is resolved succesfully the individual can develop normally, howev
 | Middle Adulthood (40 - 60 years) | Generativity vs Stagnation |
 | Old age (60+ years) | Integrity vs Despair | Reflection,  individual considers whether they have lived a life worth something,  if they feel they haven't they may experience despair |
 
+Key theories to describe development include
+* Freud's psychosexual stage theory
+* Erikson's psychosocial stage theory
+* Bronfenbrenner's ecological systems theory
 
+Miller (1993) proposed that any good developmental must focu s on changes over
+time.
+
+## Key theories
+
+### Psychodynamic theory
+Focuses on the 'inside the head' workings. How experiences impact how an
+individual experiences shapes their behaviour and perception of the world.
+"see human functioning as based upon the interaction of drives and forces within the person and between the different structures of their personality." (textbook)
+* Sigmund Freud
+* Karl Jung (1963)
+* Adler (1927)
+* Erikson (1950)
+
+Basic psychodynamic theory assumptions
+* Unconscious motives can powerfully control our behaviour and feelings
+* Childhood experiences are the root cause of how we develop as adults. 
+They are thougt to have a direct effect on both behaviour and feelings as
+adults including any psychological problems.
+* All behaviour is intentional, even if it is only at the unconscious level.
+* Personality is made up of three parts: the id, the ego and the superego.
+* Behaviour is motivated by two instinctual drives stemming from the id: Eros
+(the sex drive and the life instinct) and Thanatos (the aggressive drive and
+the death instinct).
+* The unconscious mind (the id and superego) can be in contant conflict with
+the conscious mind (the ego).
+* Our instinctual drives are modified by different conflicts at different times
+in childhood that then shape our personality.
 
